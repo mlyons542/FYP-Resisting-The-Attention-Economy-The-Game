@@ -1,0 +1,391 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1743709305308067, "dur":5435, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305313505, "dur":70, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305313593, "dur":723, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305314676, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1743709305315239, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1743709305314334, "dur":2163, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305316498, "dur":94217, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305410716, "dur":1454, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305412382, "dur":1142, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1743709305314030, "dur":2477, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743709305316512, "dur":2883, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1743709305320363, "dur":563, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1743709305321143, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\markl\\My test project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743709305321224, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\markl\\My test project\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743709305321335, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\markl\\My test project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743709305321470, "dur":249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\markl\\My test project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743709305321751, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\markl\\My test project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1743709305320927, "dur":1042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743709305322302, "dur":84357, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1743709305409136, "dur":1462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1743709305314270, "dur":2253, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743709305316529, "dur":440, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743709305316969, "dur":2510, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743709305319521, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1743709305319483, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1743709305319614, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743709305327942, "dur":2415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1743709305330401, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743709305330594, "dur":8349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743709305338969, "dur":273, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1743709305339262, "dur":10572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743709305349893, "dur":13113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1743709305363024, "dur":47780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743709305315931, "dur":973, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743709305316905, "dur":2568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1743709305319474, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1743709305324594, "dur":1640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1743709305326315, "dur":7649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743709305334020, "dur":8777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743709305342870, "dur":13327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1743709305356230, "dur":4480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level7" }}
+,{ "pid":12345, "tid":3, "ts":1743709305360726, "dur":50009, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743709305314703, "dur":1857, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743709305316610, "dur":965, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743709305317575, "dur":1997, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743709305319583, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743709305319577, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743709305327129, "dur":4114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743709305331262, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743709305331367, "dur":8751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743709305340139, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1743709305340283, "dur":11195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1743709305351503, "dur":1558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":4, "ts":1743709305353098, "dur":3740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1743709305356894, "dur":4511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level6" }}
+,{ "pid":12345, "tid":4, "ts":1743709305361423, "dur":49290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743709305314815, "dur":1859, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743709305316685, "dur":600, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743709305317285, "dur":2455, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743709305319837, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743709305323961, "dur":7742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743709305331776, "dur":9120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743709305340929, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1743709305341023, "dur":11776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1743709305353001, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1743709305355394, "dur":4292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1743709305359721, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1743709305364912, "dur":45831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743709305314836, "dur":1909, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743709305316759, "dur":758, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743709305317517, "dur":1887, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743709305319408, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1743709305325815, "dur":4041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1743709305329938, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743709305330055, "dur":7932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743709305338102, "dur":9795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743709305347925, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1743709305348094, "dur":13390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1743709305361504, "dur":49319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743709305314134, "dur":2379, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743709305316522, "dur":497, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743709305317019, "dur":2407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743709305319427, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1743709305323518, "dur":1575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1743709305325153, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743709305325295, "dur":7105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743709305332444, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1743709305332611, "dur":9059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743709305341754, "dur":11684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1743709305353493, "dur":4672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1743709305358218, "dur":5087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level2" }}
+,{ "pid":12345, "tid":7, "ts":1743709305363322, "dur":47529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305314620, "dur":1922, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305316547, "dur":476, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305317023, "dur":2699, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305319737, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1743709305319730, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project.exe" }}
+,{ "pid":12345, "tid":8, "ts":1743709305319793, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305321050, "dur":6261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project.exe" }}
+,{ "pid":12345, "tid":8, "ts":1743709305327352, "dur":411, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305327787, "dur":7047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743709305334863, "dur":494, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305335370, "dur":9162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743709305344552, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1743709305344711, "dur":14199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1743709305358937, "dur":5412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level0.resS" }}
+,{ "pid":12345, "tid":8, "ts":1743709305364367, "dur":46457, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305314453, "dur":2083, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305316541, "dur":439, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305316981, "dur":2584, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305326297, "dur":2525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743709305328847, "dur":280, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305329146, "dur":7543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743709305336708, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305336823, "dur":9854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743709305346696, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1743709305346932, "dur":14104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1743709305361075, "dur":49647, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743709305315596, "dur":1233, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743709305316830, "dur":2644, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743709305319488, "dur":93, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1743709305319475, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1743709305319582, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743709305325568, "dur":4123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1743709305329736, "dur":451, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743709305330209, "dur":8504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743709305338773, "dur":9881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743709305348675, "dur":953, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1743709305349653, "dur":13185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1743709305362855, "dur":47972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305314930, "dur":1835, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305316772, "dur":259, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305317033, "dur":2838, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305319881, "dur":399, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305321738, "dur":3569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743709305325331, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305325542, "dur":8818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743709305334389, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305334476, "dur":9694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743709305344190, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1743709305344307, "dur":13297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1743709305357633, "dur":4712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level5" }}
+,{ "pid":12345, "tid":11, "ts":1743709305362363, "dur":48474, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743709305315076, "dur":1696, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743709305316773, "dur":2781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743709305319560, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1743709305319647, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743709305330019, "dur":691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1743709305330818, "dur":8618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743709305339456, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743709305339535, "dur":10378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743709305349936, "dur":245, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1743709305350200, "dur":12709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1743709305363109, "dur":47618, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1743709305315397, "dur":1417, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1743709305316814, "dur":2722, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1743709305319539, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1743709305319654, "dur":206, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1743709305327863, "dur":3517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1743709305331407, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1743709305331527, "dur":8877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1743709305340429, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1743709305340497, "dur":11779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1743709305352465, "dur":2315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":13, "ts":1743709305354938, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":13, "ts":1743709305356063, "dur":3942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level7.resS" }}
+,{ "pid":12345, "tid":13, "ts":1743709305360057, "dur":4435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":13, "ts":1743709305364511, "dur":46236, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1743709305315160, "dur":1623, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1743709305316783, "dur":2614, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1743709305319402, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1743709305320923, "dur":6402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1743709305327348, "dur":291, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1743709305327650, "dur":8197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1743709305335900, "dur":9646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1743709305345567, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1743709305345717, "dur":14481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1743709305360215, "dur":50509, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1743709305315184, "dur":1607, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1743709305316791, "dur":2609, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1743709305325810, "dur":3942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":15, "ts":1743709305329812, "dur":478, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1743709305330368, "dur":8316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1743709305338728, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1743709305338802, "dur":9885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1743709305348707, "dur":965, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1743709305349683, "dur":13224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1743709305362931, "dur":47900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305315208, "dur":1590, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305316799, "dur":2600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305319402, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1743709305319605, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305325801, "dur":3695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":16, "ts":1743709305329524, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305329695, "dur":8299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1743709305338019, "dur":263, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305338294, "dur":9664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1743709305347977, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1743709305348100, "dur":14041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1743709305362168, "dur":48604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1743709305315274, "dur":1532, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1743709305316807, "dur":2602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1743709305319411, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1743709305325812, "dur":3487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":17, "ts":1743709305329367, "dur":7881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":17, "ts":1743709305337290, "dur":260, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1743709305337560, "dur":9565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1743709305347188, "dur":13740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1743709305360947, "dur":49771, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1743709305315691, "dur":1169, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1743709305316861, "dur":2622, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1743709305319484, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1743709305319575, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1743709305325398, "dur":2203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1743709305327627, "dur":317, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1743709305327958, "dur":7647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1743709305335677, "dur":9461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1743709305345199, "dur":13746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1743709305358975, "dur":5199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level0" }}
+,{ "pid":12345, "tid":18, "ts":1743709305364193, "dur":46594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1743709305315504, "dur":1318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1743709305316822, "dur":2676, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1743709305319560, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":19, "ts":1743709305319502, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1743709305319655, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1743709305327506, "dur":3629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":19, "ts":1743709305331212, "dur":8663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1743709305339896, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1743709305340051, "dur":10210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1743709305350321, "dur":7822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":19, "ts":1743709305358172, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level2.resS" }}
+,{ "pid":12345, "tid":19, "ts":1743709305363254, "dur":47516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305315621, "dur":1217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305316838, "dur":2947, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305319793, "dur":385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305321644, "dur":3596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":20, "ts":1743709305325265, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305325427, "dur":7000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":20, "ts":1743709305332447, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305332614, "dur":8707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1743709305341343, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1743709305341469, "dur":11552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1743709305353048, "dur":3271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":20, "ts":1743709305356358, "dur":4652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level6.resS" }}
+,{ "pid":12345, "tid":20, "ts":1743709305361027, "dur":49764, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305315652, "dur":1193, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305316845, "dur":2943, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305319795, "dur":201, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305323964, "dur":5018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":21, "ts":1743709305329004, "dur":245, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305329269, "dur":7342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":21, "ts":1743709305336633, "dur":179, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305336826, "dur":9498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1743709305346345, "dur":244, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1743709305346610, "dur":13403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1743709305360044, "dur":4327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":21, "ts":1743709305364388, "dur":46371, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1743709305315670, "dur":1183, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1743709305316853, "dur":2623, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1743709305319476, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":22, "ts":1743709305323556, "dur":1913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":22, "ts":1743709305325544, "dur":7423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":22, "ts":1743709305332997, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1743709305333132, "dur":9243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1743709305342458, "dur":12387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1743709305354869, "dur":3878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":22, "ts":1743709305358781, "dur":5471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level1" }}
+,{ "pid":12345, "tid":22, "ts":1743709305364290, "dur":46486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1743709305315726, "dur":1142, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1743709305316868, "dur":2674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1743709305319571, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":23, "ts":1743709305319545, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":23, "ts":1743709305326545, "dur":3110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":23, "ts":1743709305329726, "dur":7686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":23, "ts":1743709305337432, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1743709305337570, "dur":9780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1743709305347373, "dur":225, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1743709305347623, "dur":13329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1743709305360975, "dur":49760, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1743709305315742, "dur":1141, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1743709305316884, "dur":2514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1743709305319444, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1743709305324212, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":24, "ts":1743709305326102, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1743709305326179, "dur":8167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":24, "ts":1743709305334367, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1743709305334478, "dur":9500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1743709305344067, "dur":12886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1743709305356980, "dur":4793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level5.resS" }}
+,{ "pid":12345, "tid":24, "ts":1743709305361800, "dur":49047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1743709305315761, "dur":1137, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1743709305316898, "dur":2498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1743709305320825, "dur":1893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/app.info" }}
+,{ "pid":12345, "tid":25, "ts":1743709305322722, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1743709305322960, "dur":3703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":25, "ts":1743709305326735, "dur":7820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":25, "ts":1743709305334577, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1743709305334773, "dur":9724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1743709305344519, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1743709305344709, "dur":13811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1743709305358551, "dur":5199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level1.resS" }}
+,{ "pid":12345, "tid":25, "ts":1743709305363769, "dur":46960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1743709305315782, "dur":1250, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1743709305317032, "dur":2770, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1743709305319808, "dur":414, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1743709305321634, "dur":2552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":26, "ts":1743709305324216, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1743709305324996, "dur":6613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":26, "ts":1743709305331630, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1743709305331717, "dur":8662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1743709305340436, "dur":11170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1743709305351631, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":26, "ts":1743709305353550, "dur":4311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":26, "ts":1743709305357901, "dur":4804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level3.resS" }}
+,{ "pid":12345, "tid":26, "ts":1743709305362724, "dur":48098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1743709305315816, "dur":1128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1743709305316944, "dur":2548, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1743709305319495, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":27, "ts":1743709305327802, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":27, "ts":1743709305330204, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1743709305330368, "dur":8004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1743709305338400, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1743709305338552, "dur":9691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1743709305348267, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1743709305348415, "dur":14319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1743709305362751, "dur":48048, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1743709305315838, "dur":1260, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1743709305317099, "dur":2735, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1743709305319840, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1743709305323980, "dur":5686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":28, "ts":1743709305329748, "dur":8132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":28, "ts":1743709305337901, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1743709305337961, "dur":9912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1743709305347913, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1743709305348103, "dur":13396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1743709305361536, "dur":49231, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305314374, "dur":2155, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305316535, "dur":481, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305317016, "dur":2385, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305319442, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305322938, "dur":1360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":29, "ts":1743709305325001, "dur":6921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":29, "ts":1743709305331942, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305332005, "dur":8540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1743709305340563, "dur":177, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1743709305340752, "dur":11564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1743709305352344, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":29, "ts":1743709305353527, "dur":4103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":29, "ts":1743709305357685, "dur":4701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level4.resS" }}
+,{ "pid":12345, "tid":29, "ts":1743709305362404, "dur":48390, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1743709305315850, "dur":1079, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1743709305316929, "dur":2800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1743709305319765, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1743709305322708, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":30, "ts":1743709305325220, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1743709305325428, "dur":7563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":30, "ts":1743709305333012, "dur":94, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1743709305333116, "dur":8867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1743709305342064, "dur":12201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1743709305354346, "dur":3490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":30, "ts":1743709305357905, "dur":5052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level4" }}
+,{ "pid":12345, "tid":30, "ts":1743709305362973, "dur":47817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305315878, "dur":1044, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305316922, "dur":2625, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305319550, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":31, "ts":1743709305319641, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305326636, "dur":3791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":31, "ts":1743709305330451, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305330597, "dur":8374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1743709305338992, "dur":251, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305339264, "dur":10474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1743709305349758, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1743709305349836, "dur":12961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1743709305362814, "dur":48006, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305315911, "dur":1000, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305316911, "dur":2845, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305319765, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305321591, "dur":3551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":32, "ts":1743709305325162, "dur":236, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305325425, "dur":7573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":32, "ts":1743709305333020, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305333119, "dur":8989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1743709305342127, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305342257, "dur":11725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1743709305354003, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1743709305354075, "dur":3775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":32, "ts":1743709305357899, "dur":4795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/markl/OneDrive - University of Limerick/FYP/Game Resisting The Attention Economy/My test project_Data/level3" }}
+,{ "pid":12345, "tid":32, "ts":1743709305362713, "dur":48007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1743709305414805, "dur":709, "ph":"X", "name": "ProfilerWriteOutput" }
+,
